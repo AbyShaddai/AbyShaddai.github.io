@@ -1,9 +1,9 @@
 :root {
-            --primary: #6d5dfc;
-            --secondary: #43cea2;
-            --accent: #ff6b6b;
-            --light: #f8f9fa;
-            --dark: #2c3e50;
+            --primary: #af0359;
+            --secondary: #0d4755;
+            --accent: #7c0a49;
+            --light: #ffffff;
+            --dark: #04274b;
             --text: #495057;
             --white: #ffffff;
             --shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
@@ -289,7 +289,6 @@
         
         .featured-img {
             height: 200px;
-            background-color: #ddd;
             background-size: cover;
             background-position: center;
         }
